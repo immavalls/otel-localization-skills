@@ -1,0 +1,23 @@
+en,es
+baggage,baggage
+callback,callback
+cloud,nube
+collect (telemetry),recopilar
+distributed tracing,trazado distribuido
+"downstream (services, etc)","(servicios, etc.) posteriores"
+exporters,exportadores
+library,librería
+log,log
+metric,métrica
+OpenTelemetry Collector,"colector (OpenTelemetry Collector cuando se presenta el nombre completo)"
+pipeline,"pipeline (canalización puede ser alternativa, pero no se suele usar)"
+profiles,perfiles
+profiling,perfilado
+rich telemetry,telemetría abundante
+samplers,muestreos
+span,span
+telemetry,telemetría
+to instrument,instrumentar
+trace,traza
+vendor,proveedor
+vendor-agnostic,neutral

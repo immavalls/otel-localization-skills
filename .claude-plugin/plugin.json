@@ -1,0 +1,14 @@
+{
+  "name": "otel-localization",
+  "displayName": "OTel Localization",
+  "description": "Agent Skills for translating and maintaining OpenTelemetry localized documentation.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Imma Valls",
+    "email": "imma.valls@grafana.com"
+  },
+  "homepage": "https://github.com/immavalls/otel-localization-skills",
+  "repository": "https://github.com/immavalls/otel-localization-skills",
+  "license": "Apache-2.0",
+  "keywords": ["opentelemetry", "localization", "i18n", "translation", "claude-code-plugin"]
+}
