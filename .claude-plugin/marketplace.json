@@ -1,0 +1,18 @@
+{
+  "name": "otel-localization-marketplace",
+  "owner": {
+    "name": "Imma Valls",
+    "email": "imma.valls@grafana.com"
+  },
+  "description": "OpenTelemetry localization skills and tools",
+  "plugins": [
+    {
+      "name": "otel-localization",
+      "source": ".",
+      "description": "Agent Skills for translating and maintaining OpenTelemetry localized documentation",
+      "version": "0.1.0",
+      "category": "localization",
+      "tags": ["opentelemetry", "localization", "i18n", "translation"]
+    }
+  ]
+}
