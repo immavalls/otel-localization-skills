@@ -1,7 +1,7 @@
 # resources
 
 Reference data that translation/review skills read directly, instead of
-fetching a live Google Sheet. One folder per target language.
+fetching a [live Google Sheet](https://docs.google.com/spreadsheets/d/1Nh0RNGuHjfPB3aDdq4_AvfdFJ0zFvyzg4Rzdu6uR3QA/edit?gid=0#gid=0). One folder per target language.
 
 ```
 resources/
